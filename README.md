@@ -1,1 +1,0 @@
-# liver-cirrhosis-predictor
